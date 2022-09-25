@@ -50,3 +50,11 @@ yarn add react-content-loader @types/react-content-loader
 yarn add @mui/material @mui/icons-material @emotion/react @emotion/styled
 
 yarn add @testing-library/jest-dom @testing-library/react jest jest-environment-jsdom
+
+# lint execute command
+
+yarn run lint
+
+# format execute command
+
+yarn run format
